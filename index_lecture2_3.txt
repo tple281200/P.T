@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="description" content="Free Web tutorials">
+	<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+	<meta name="author" content="John Doe">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> this is a title</title>
+	<body>
+	<h6>
+	Hi I'm Phat
+	</h6>
+	<p> I have been to New York last week, bought some souvenirs for 20$dollars;</p>
+	<img src = "C:\Users\tple2\Downloads\placeimg_300_300_arch.jpg" 
+		 title = "idk"
+		 alt = "ikfn"		 />
+	<ol> <li> lays' </li>
+		 <li> frites </li>
+		 <li> croissant </li>
+		 <li> redbull </li>
+		 <li> milk </li>
+	</ol>
+	<ul> <li>eat</li>
+		 <li>love</li>
+		 <li>pray</li>
+		 <li>play football</li>
+		 <li>gaming</li>
+	</ul>
+	<table>
+	<tr>
+		<th> course name</th>
+		<th> EC's </th>
+		<th> expected time for homework </th>
+	</tr>
+	<tr>
+		<th> programming 1 </th>
+		<th> 3 </th>
+		<th> 21/9 </th>
+	
+	</tr>
+	<tr>
+		<th> networks </th>
+		<th> 3 </th>
+		<th> no homework </th>
+	</tr>
+	<a href="https://www.facebook.com/madridsta.phat">
+	my facebook</a>
+</head>
